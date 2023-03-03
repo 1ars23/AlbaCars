@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1677883171721" clover="3.2.0">
+  <project timestamp="1677883171721" name="All files">
+    <metrics statements="153" coveredstatements="119" conditionals="34" coveredconditionals="18" methods="16" coveredmethods="13" elements="203" coveredelements="150" complexity="0" loc="153" ncloc="153" packages="1" files="8" classes="8"/>
+    <file name="addBlogPost.js" path="D:\UAE\alba\backend-test-1\Part_2\addBlogPost.js">
+      <metrics statements="40" coveredstatements="36" conditionals="8" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="15" type="stmt"/>
+      <line num="16" count="15" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="15" type="cond" truecount="1" falsecount="1"/>
+      <line num="21" count="15" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="6" type="stmt"/>
+      <line num="39" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="4" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="46" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="48" count="2" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="55" count="4" type="stmt"/>
+      <line num="58" count="2" type="stmt"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="72" count="2" type="stmt"/>
+      <line num="75" count="2" type="stmt"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="84" count="1" type="stmt"/>
+    </file>
+    <file name="fileUtils.js" path="D:\UAE\alba\backend-test-1\Part_2\fileUtils.js">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="generateTokenForImage.js" path="D:\UAE\alba\backend-test-1\Part_2\generateTokenForImage.js">
+      <metrics statements="15" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+    </file>
+    <file name="getAllBlogPosts.js" path="D:\UAE\alba\backend-test-1\Part_2\getAllBlogPosts.js">
+      <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="178" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="getImageByToken.js" path="D:\UAE\alba\backend-test-1\Part_2\getImageByToken.js">
+      <metrics statements="17" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+    <file name="imageUtils.js" path="D:\UAE\alba\backend-test-1\Part_2\imageUtils.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="index.js" path="D:\UAE\alba\backend-test-1\Part_2\index.js">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="validations.js" path="D:\UAE\alba\backend-test-1\Part_2\validations.js">
+      <metrics statements="35" coveredstatements="24" conditionals="22" coveredconditionals="13" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="19" count="4" type="cond" truecount="3" falsecount="1"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="22" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="30" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="33" count="6" type="stmt"/>
+      <line num="34" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+      <line num="38" count="10" type="cond" truecount="3" falsecount="1"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="41" count="10" type="cond" truecount="1" falsecount="1"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="45" count="5" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="52" count="6" type="stmt"/>
+      <line num="53" count="6" type="cond" truecount="1" falsecount="1"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="56" count="6" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="0" type="stmt"/>
+      <line num="69" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="70" count="0" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
